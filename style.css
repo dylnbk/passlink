@@ -1,7 +1,7 @@
 body {
     background: radial-gradient(circle, #59e1e6, #4aa7c4, #3b8297, #3b6b97);
-    background-size: 400% 400%;
-    animation: gradient 40s ease infinite;
+    background-size: 300% 300%;
+    animation: gradient 120s ease infinite;
     height: 100vh;
     overflow: hidden;
 }
